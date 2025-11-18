@@ -1,0 +1,13 @@
+# Course & Assignment Manager Dependencies
+
+# Web framework
+streamlit>=1.28.0
+
+# Data handling
+pandas>=2.0.0
+
+# Claude AI (for advanced version)
+anthropic>=0.39.0
+
+# Environment variables
+python-dotenv>=1.0.0
