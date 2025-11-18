@@ -99,6 +99,75 @@ These templates are designed to get you coding in 5 minutes or less. Each templa
 
 ---
 
+### 6. Resume & Cover Letter Builder 📄
+**Difficulty**: Beginner-friendly
+**What it does**: Create professional resumes and cover letters with AI-powered bullet point generation.
+
+**Tech Stack**: Python + Streamlit + Claude API
+**Great for**: Students applying for internships/jobs
+
+**Features**:
+- ✅ Form-based resume builder
+- ✅ Export to text/PDF
+- ✅ Pre-built templates
+- 🚀 Advanced: AI bullet point enhancement, job-tailored resumes, cover letter generation, ATS optimization
+
+[**Get Started →**](./template-6-resume-builder/)
+
+---
+
+### 7. Flashcard Generator 🎴
+**Difficulty**: Beginner-friendly
+**What it does**: Auto-generate flashcards from notes with spaced repetition learning.
+
+**Tech Stack**: Python + Streamlit + Claude API
+**Great for**: Students who want effective study tools
+
+**Features**:
+- ✅ Manual flashcard creation
+- ✅ Spaced repetition (SM-2 algorithm)
+- ✅ Progress tracking
+- 🚀 Advanced: AI-generated flashcards from notes, multiple choice questions, Anki export
+
+[**Get Started →**](./template-7-flashcard-generator/)
+
+---
+
+### 8. Internship Application Tracker 💼
+**Difficulty**: Beginner to Intermediate
+**What it does**: Track internship applications, deadlines, and interview stages in one place.
+
+**Tech Stack**: Python + Streamlit + Claude API
+**Great for**: Students applying to internships
+
+**Features**:
+- ✅ Application pipeline tracking
+- ✅ Deadline reminders
+- ✅ Status management
+- 🚀 Advanced: AI follow-up email generation, job description analysis, application strategy insights
+
+[**Get Started →**](./template-8-internship-tracker/)
+
+---
+
+### 9. Roommate Expense Splitter 💰
+**Difficulty**: Beginner-friendly
+**What it does**: Track shared expenses with roommates and calculate who owes what.
+
+**Tech Stack**: Python + Streamlit + Claude Vision API
+**Great for**: Students living with roommates
+
+**Features**:
+- ✅ Expense tracking
+- ✅ Flexible splitting (equal/custom)
+- ✅ Balance calculations
+- ✅ Smart settlement algorithm
+- 🚀 Advanced: Receipt photo scanning with Claude Vision, natural language expense entry
+
+[**Get Started →**](./template-9-expense-splitter/)
+
+---
+
 ## 🔑 Getting Your Claude API Key
 
 1. Go to [console.anthropic.com](https://console.anthropic.com/)
@@ -145,13 +214,20 @@ streamlit run app.py
 **Brand new to coding?** Start with:
 - Template 5 (Precept Prep) - Simplest, no database needed
 - Template 1 (Late Meal Tracker) - Fun, practical, beginner-friendly
+- Template 9 (Expense Splitter) - Useful for everyday life
 
 **Some Python experience?** Try:
 - Template 2 (Assignment Manager) - Good full-stack introduction
-- Template 3 (Event Finder) - Learn web scraping and NLP
+- Template 6 (Resume Builder) - Career-focused, practical output
+- Template 7 (Flashcard Generator) - Learn spaced repetition algorithms
+
+**Looking for career tools?** Build:
+- Template 6 (Resume Builder) - Create professional application materials
+- Template 8 (Internship Tracker) - Manage your job search
 
 **Want a challenge?** Build:
 - Template 4 (Study Group Matcher) - Recommendation systems and databases
+- Template 7 (Flashcard Generator) - Advanced learning algorithms
 
 ## 📖 Learning Resources
 
