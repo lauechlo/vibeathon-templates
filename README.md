@@ -168,6 +168,131 @@ These templates are designed to get you coding in 5 minutes or less. Each templa
 
 ---
 
+## 🚀 Advanced Templates (8-12 hours)
+
+Ready to level up? These advanced templates showcase cutting-edge AI patterns and build impressive portfolio pieces. They're ~60% complete - you'll implement the most interesting features yourself!
+
+⚠️ **Prerequisites**: Comfort with Python, basic understanding of AI concepts, and completion of at least 2-3 beginner templates recommended.
+
+### 10. Multi-Document Research Assistant 📚
+**Difficulty**: Advanced (8-12 hours)
+**What it does**: Analyze multiple research papers simultaneously, extract citations, find contradictions, and generate literature reviews.
+
+**Tech Stack**: Python + Streamlit + Claude API (Extended Thinking) + PyPDF2 + Artifacts
+**Great for**: Research projects, thesis work, comprehensive exams
+
+**Features**:
+- ✅ Multi-document querying with extended thinking
+- ✅ Interactive concept maps (SVG artifacts)
+- ✅ Comparison tables between papers
+- ✅ Basic citation extraction
+- 🚧 **YOU BUILD**: Advanced citation parsing, literature review generator, contradiction detector, LaTeX export
+
+**What you'll learn**: RAG patterns, extended thinking, multi-document reasoning, artifact generation, academic writing AI
+
+[**Get Started →**](./advanced/10-multi-doc-research/)
+
+---
+
+### 11. Code Learning Companion 💻
+**Difficulty**: Advanced (6-10 hours)
+**What it does**: AI tutor that uses Socratic teaching methods to help you learn programming without giving away answers.
+
+**Tech Stack**: Python + Streamlit + Claude API (Extended Thinking) + Python AST
+**Great for**: CS students, coding bootcamps, self-learners
+
+**Features**:
+- ✅ Code analysis and bug detection
+- ✅ Socratic questioning (asks guiding questions, not answers)
+- ✅ Practice problem generator
+- ✅ Concept visualizations
+- 🚧 **YOU BUILD**: Adaptive difficulty system, test case generator, algorithm visualizer, concept mastery tracker
+
+**What you'll learn**: Educational AI patterns, Socratic method, code parsing (AST), adaptive learning systems, algorithm visualization
+
+[**Get Started →**](./advanced/11-code-learning-companion/)
+
+---
+
+### 12. Course Material Remix Engine 📖
+**Difficulty**: Advanced (6-10 hours)
+**What it does**: Transform boring textbooks and lectures into engaging content tailored to YOUR learning style.
+
+**Tech Stack**: Python + Streamlit + Claude API + Artifacts + PDF Processing
+**Great for**: Visual learners, students with ADHD, anyone who finds traditional materials boring
+
+**Features**:
+- ✅ Transform to story mode (concepts as narrative)
+- ✅ Analogy mode (sports, cooking, music analogies)
+- ✅ ELI5 mode (simplify complex concepts)
+- ✅ Interactive quizzes and concept maps
+- 🚧 **YOU BUILD**: Podcast script generator, flashcard deck with Anki export, accessibility modes, multi-format export
+
+**What you'll learn**: Style transfer, pedagogical transformation, accessibility design, multi-format content generation, educational artifacts
+
+[**Get Started →**](./advanced/12-course-material-remix/)
+
+---
+
+### 13. Interactive Lecture Companion 🎓
+**Difficulty**: Advanced (8-12 hours)
+**What it does**: Real-time AI assistant that enhances your notes, generates questions, and keeps you engaged during lectures.
+
+**Tech Stack**: Python + Streamlit + Claude API (Extended Thinking + Streaming) + Artifacts
+**Great for**: Large lectures, difficult courses, students who struggle with attention
+
+**Features**:
+- ✅ Real-time note enhancement (type rough → get clean notes)
+- ✅ Auto-generate check-for-understanding questions
+- ✅ Post-lecture summary with gap analysis
+- ✅ Interactive timeline visualization
+- 🚧 **YOU BUILD**: Confusion detection, multi-lecture context linking, attention tracker, collaborative notes merging
+
+**What you'll learn**: Real-time AI processing, streaming responses, long context management, temporal reasoning, engagement tracking
+
+[**Get Started →**](./advanced/13-lecture-companion/)
+
+---
+
+## 🎯 Why Advanced Templates?
+
+These advanced templates are designed to:
+
+1. **Teach Cutting-Edge AI Patterns**
+   - Extended thinking for complex analysis
+   - Artifacts for rich, interactive outputs
+   - Streaming for real-time responses
+   - RAG (Retrieval Augmented Generation) for long documents
+
+2. **Build Portfolio-Worthy Projects**
+   - Impressive technical depth
+   - Solves real, complex problems
+   - Demonstrates advanced AI/ML knowledge
+   - Great talking points for interviews
+
+3. **Learn by Building**
+   - ~60% starter code provided
+   - You implement the most interesting features
+   - Clear TODOs with hints
+   - Comprehensive README guides
+
+4. **Progressive Difficulty**
+   - Start with working core features
+   - Build increasingly complex extensions
+   - Multiple difficulty levels within each template
+
+## 💡 How to Use Advanced Templates
+
+1. **Complete Prerequisites**: Finish 2-3 beginner templates first
+2. **Read the README Carefully**: Each has detailed learning objectives
+3. **Run the Base Version**: See what's already working
+4. **Choose a TODO**: Pick one feature to implement
+5. **Use the Hints**: Each TODO has implementation guidance
+6. **Test Thoroughly**: Make sure your features work well
+7. **Extend Further**: Add your own creative features!
+
+---
+
 ## 🔑 Getting Your Claude API Key
 
 1. Go to [console.anthropic.com](https://console.anthropic.com/)
@@ -228,6 +353,12 @@ streamlit run app.py
 **Want a challenge?** Build:
 - Template 4 (Study Group Matcher) - Recommendation systems and databases
 - Template 7 (Flashcard Generator) - Advanced learning algorithms
+
+**Ready for advanced features?** Try:
+- Template 10 (Multi-Doc Research) - RAG patterns, extended thinking, literature reviews
+- Template 11 (Code Learning) - Socratic teaching, educational AI, algorithm visualization
+- Template 12 (Material Remix) - Style transfer, accessibility, creative transformations
+- Template 13 (Lecture Companion) - Real-time AI, streaming, long context management
 
 ## 📖 Learning Resources
 
